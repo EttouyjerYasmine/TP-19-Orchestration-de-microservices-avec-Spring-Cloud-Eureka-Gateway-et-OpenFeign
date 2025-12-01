@@ -117,7 +117,6 @@ Centralisation des accès via une API Gateway
 
 Architecture scalable et propre
 
-###
 -![3f98011f-e71a-481a-afc3-5ab3dfb7867e](https://github.com/user-attachments/assets/7c6fa53b-827a-43ff-8fec-99057c1b9aef)
 
 -![23a52c04-9b20-43a4-92b7-e130c6b8112e](https://github.com/user-attachments/assets/fdd7a553-21e3-4ecd-8439-e87907cfa1cd)
